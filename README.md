@@ -1,1 +1,3 @@
-# bethanis-pie-shop-bootstrap
+# Bethany's Pie Shop
+by Gill Cleeren
+from Pluralsight
